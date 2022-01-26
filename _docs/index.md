@@ -34,6 +34,7 @@ Supporting practices
 (relevant stuff, but not core to our model)
 
 -   [The Product Mindset](product-mindset.html) - how we use the product mentality to grow our business
+-   [The Open Practice Library](opl.html) - how do we leaverage the Open Practice Library
 
 Meta
 ----
